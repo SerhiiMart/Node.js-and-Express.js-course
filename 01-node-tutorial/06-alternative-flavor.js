@@ -4,3 +4,4 @@ const person = {
 }
 
 module.exports.singlePerson = person
+/// different ways to export
