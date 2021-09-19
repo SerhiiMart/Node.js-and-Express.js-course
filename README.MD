@@ -1,4 +1,6 @@
-## Node and Express Tutorial made by John Smilga. Original source : https://github.com/john-smilga/node-express-course.
+## Node and Express Tutorial made by John Smilga.
+
+### Original source : https://github.com/john-smilga/node-express-course.
 
 #### Contents
 
